@@ -1,0 +1,102 @@
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\appsettings.json
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.staticwebassets.endpoints.json
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.exe
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.deps.json
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.runtimeconfig.json
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.pdb
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.csproj.AssemblyReference.cache
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.AssemblyInfoInputs.cache
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.AssemblyInfo.cs
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.csproj.CoreCompileInputs.cache
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\scopedcss\bundle\SurfingPointServer.styles.css
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.SurfingPointServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.SurfingPointServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.build.SurfingPointServer.props
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SurfingPointServer.props
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SurfingPointServer.props
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingP.0A7BAE83.Up2Date
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.dll
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\refint\SurfingPointServer.dll
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.pdb
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.genruntimeconfig.cache
+C:\Users\wesam\source\repos\SurfingPointServer\obj\Debug\net8.0\ref\SurfingPointServer.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wesam\source\repos\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\appsettings.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.staticwebassets.endpoints.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.exe
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.deps.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.runtimeconfig.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\SurfingPointServer.pdb
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.csproj.AssemblyReference.cache
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.AssemblyInfoInputs.cache
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.AssemblyInfo.cs
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.csproj.CoreCompileInputs.cache
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\scopedcss\bundle\SurfingPointServer.styles.css
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.SurfingPointServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.SurfingPointServer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.build.SurfingPointServer.props
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SurfingPointServer.props
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SurfingPointServer.props
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingP.0A7BAE83.Up2Date
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\refint\SurfingPointServer.dll
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.pdb
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\SurfingPointServer.genruntimeconfig.cache
+C:\Users\naork\OneDrive\שולחן העבודה\MTR\מחזור-ס-2024\שנה-ב'\סימסטר-ב'\React Native\פרוייקט סיום- 7.8.2025\SurfingPointServer\obj\Debug\net8.0\ref\SurfingPointServer.dll

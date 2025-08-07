@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SurfingPointServer.props" />
+</Project>

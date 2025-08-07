@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2RWV99NwMdPKYuWZIqZlMDdhAfRMsCZLrIXGEUSV+E0=",
+  "Source": "SurfingPointServer",
+  "BasePath": "_content/SurfingPointServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
